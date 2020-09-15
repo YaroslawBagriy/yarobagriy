@@ -17,6 +17,12 @@ const Hero = () => (
         - A podcast helping you become a more successful newsletter creator.
       </li>
       <li>
+        <a className="text-blue-500" href="https://www.inboxstash.com">
+          InboxStash
+        </a>{" "}
+        - Find amazing email newsletters with the newsletter directory.
+      </li>
+      <li>
         <a className="text-blue-500" href="https://www.indiestack.co">
           IndieStack
         </a>{" "}
