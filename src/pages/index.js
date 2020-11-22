@@ -16,15 +16,6 @@ const Hero = () => (
     </h2>
     <br />
     <p className="mt-1 text-lg text-gray-700 leading-relaxed text-left font-body">
-      I'm currently building{" "}
-      <a className="text-blue-500" href="https://www.newslettercrew.com">
-        Newsletter Crew
-      </a>
-      , a podcast to help newsletter creators build, run, grow, and monetize
-      their newsletter business.
-    </p>
-    <br />
-    <p className="mt-1 text-lg text-gray-700 leading-relaxed text-left font-body">
       Ever since I stepped into my first job I knew I needed to find a way out.
       This led me on my entrepreneurial quest. This quest consists of building
       enough income producing assets to quit my full-time job. A few of those

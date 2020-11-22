@@ -2,7 +2,7 @@
 module.exports = {
   siteMetadata: {
     title: `Yaro Bagriy`,
-    description: `Yaro Bagriy personal brand site`,
+    description: `Yaro Bagriy Personal Site`,
     author: `Yaro Bagriy`,
     siteUrl: `https://www.yarobagriy.com/`,
   },

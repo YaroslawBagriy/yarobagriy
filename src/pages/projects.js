@@ -11,23 +11,23 @@ const Hero = () => (
     <br />
     <ul className="mt-1 text-xl text-gray-700 leading-loose text-left font-body list-disc">
       <li>
-        <a className="text-blue-500" href="https://www.newslettercrew.com">
+        <a className="text-blue-500" href="https://newslettercrew.com">
           Newsletter Crew
         </a>{" "}
         - A podcast helping you become a more successful newsletter creator.
       </li>
       <li>
-        <a className="text-blue-500" href="https://www.inboxstash.com">
-          InboxStash
-        </a>{" "}
-        - Find amazing email newsletters with the newsletter directory.
-      </li>
-      <li>
-        <a className="text-blue-500" href="https://www.indiestack.co">
+        <a className="text-blue-500" href="https://indiestack.co">
           IndieStack
         </a>{" "}
         - A private community for digital makers, bootstrappers, and indie
         founders.
+      </li>
+      <li>
+        <a className="text-blue-500" href="https://tinylog.co">
+          TinyLog
+        </a>{" "}
+        - A publishing platform for blogs and newsletters.
       </li>
     </ul>
   </div>
