@@ -40,7 +40,12 @@ const Hero = () => (
       </li>
       <li>
         <a className="text-blue-500" href="https://www.community-finder.co/post/acquiring-a-communitys">
-          How NewsletterCrew acquired IndieMailer in 1 day
+          How Newsletter Crew acquired IndieMailer in 1 day
+        </a>
+      </li>
+      <li>
+        <a className="text-blue-500" href="https://alternativeassets.club/an-interview-with-yaro-bigry/">
+        The World of Newsletter Acquisitions: Interview with Yaro Bagriy
         </a>
       </li>
     </ul>
