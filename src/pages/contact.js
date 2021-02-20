@@ -19,7 +19,7 @@ function ContactPage() {
           The best way to contact me is{" "}
           <a
             className="text-blue-500"
-            href="mailto: yaroslaw.bagriy@evercode.io"
+            href="mailto: yaroslawbagriy@gmail.com"
           >
             email
           </a>
