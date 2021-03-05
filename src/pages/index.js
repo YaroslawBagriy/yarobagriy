@@ -24,7 +24,7 @@ const Hero = () => (
     </p>
     <br />
     <p className="mt-1 text-lg text-gray-700 leading-relaxed text-left font-body">
-      My non-work hobbies include triatholons, traveling, poker, and spending
+      My non-work hobbies include triathlons, traveling, poker, and spending
       quality time with my family.
     </p>
     <Newsletter />
