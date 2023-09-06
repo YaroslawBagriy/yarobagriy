@@ -30,7 +30,7 @@ const Newsletter = ({className = "" }) => {
                     >
                     <p>
                         Every month I send out my personal insights on being a digital maker,
-                        investor, and asset builder. It’s short, insightful, sponsor-free, and
+                        investor, and asset builder. It&aposs short, insightful, sponsor-free, and
                         you can always unsubscribe with a simple click.
                     </p>
                     </div>
