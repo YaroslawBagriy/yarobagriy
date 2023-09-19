@@ -48,41 +48,113 @@ export default function Home() {
                       </tr>
                     </thead>
                     <tbody>
-                      <tr class="border-b dark:border-neutral-500 no-scrollbar">
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-500 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://indiestack.co">IndieStack</a></td>
                         <td class="whitespace-normal px-6 py-4">10/21/2019</td>
                         <td class="whitespace-normal px-6 py-4">Private community for digital makers, bootstrappers, and indie founders.</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (5-figure exit)</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-800">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-800 hover:bg-indigo-500 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://newslettercrew.com">Newsletter Crew</a></td>
                         <td class="whitespace-normal px-6 py-4">1/05/2020</td>
                         <td class="whitespace-normal px-6 py-4">Podcast, membership, and blog helping you become a more successful newsletter creator.</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (6-figure exit)</td>
                       </tr>
-                      <tr class="border-b dark:border-neutral-500">
+                      <tr class="border-b dark:border-neutral-500 hover:bg-indigo-500 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://referralkit.co">ReferralKit</a></td>
                         <td class="whitespace-normal px-6 py-4">10/01/2020</td>
                         <td class="whitespace-normal px-6 py-4">Newsletter referral SaaS. Put your newsletter growth on autopilot</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (5-figure exit)</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-800">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-800 hover:bg-indigo-500 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://playgroup.community">Playgroup</a></td>
                         <td class="whitespace-normal px-6 py-4">03/25/2021</td>
                         <td class="whitespace-normal px-6 py-4">Powerful platform to start and grow your own online community.  </td>
                         <td class="whitespace-normal px-6 py-4">Shutdown (acquired for a loss)</td>
                       </tr>
-                      <tr class="border-b dark:border-neutral-500">
+                      <tr class="border-b dark:border-neutral-500 hover:bg-indigo-500 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://alts.club">Alts Club</a></td>
                         <td class="whitespace-normal px-6 py-4">11/18/2022</td>
                         <td class="whitespace-normal px-6 py-4">Newsletter and community focusing on alternative investments.</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (4-figure exit)</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-800">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-800 hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4"><a href="https://mrretireearly.com">Mr Retire Early</a></td>
+                        <td class="whitespace-normal px-6 py-4">03/26/2023</td>
+                        <td class="whitespace-normal px-6 py-4">Newsletter to unlock the essential guide to achieving financial freedom and early retirement.</td>
+                        <td class="whitespace-normal px-6 py-4">Active</td>
+                      </tr>
+                      <tr class="border-b dark:border-neutral-500 hover:bg-indigo-500 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://supermatic.io">Supermatic</a></td>
                         <td class="whitespace-normal px-6 py-4">09/03/2023</td>
                         <td class="whitespace-normal px-6 py-4">Cold email outreach automation SaaS</td>
                         <td class="whitespace-normal px-6 py-4">Active</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <br />
+          <h2 className="text-xl font-bold text-gray-800 leading-none text-left">
+            Featured
+          </h2>
+          <div class="flex flex-col">
+            <div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
+              <div class="inline-block min-w-full py-2 sm:px-6 lg:px-8">
+                <div class="overflow-hidden">
+                  <table class="min-w-full text-left text-sm font-light table-auto">
+                    <thead class="border-b font-medium dark:border-neutral-500">
+                      <tr>
+                        <th scope="col" class="px-6 py-4">Website</th>
+                        <th scope="col" class="px-6 py-4">Description</th>
+                        <th scope="col" class="px-6 py-4">Medium</th>
+                        <th scope="col" class="px-6 py-4">Link</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4">Community Finder</td>
+                        <td class="whitespace-normal px-6 py-4">Managing Indie stack community with a full time job with Yaro</td>
+                        <td class="whitespace-normal px-6 py-4">Podcast</td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://www.community-finder.co/podcasts/managing-indie-stack-community">Listen here</a></td>
+                      </tr>
+                      <tr class="border-b bg-gray-100 dark:border-neutral-800 no-scrollbar hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4">Learnkn</td>
+                        <td class="whitespace-normal px-6 py-4">Indie Lifestyle, Managing Time, and How to Build Community!</td>
+                        <td class="whitespace-normal px-6 py-4">Podcast</td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://www.youtube.com/watch?v=6OezrHYCK5c">Listen here</a></td>
+                      </tr>
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4">Ship Building</td>
+                        <td class="whitespace-normal px-6 py-4">Yaroslaw Bagriy Interview</td>
+                        <td class="whitespace-normal px-6 py-4">Podcast</td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://podcasts.apple.com/us/podcast/18-yaroslaw-bagriy-interview/id1503184253?i=1000484640098">Listen here</a></td>
+                      </tr>
+                      <tr class="border-b bg-gray-100 dark:border-neutral-800 no-scrollbar hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4">IndieHackers</td>
+                        <td class="whitespace-normal px-6 py-4">Making a Living From the Paid Newsletter Ecosystem</td>
+                        <td class="whitespace-normal px-6 py-4">Podcast</td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://www.indiehackers.com/podcast/191-yaroslaw-bagriy-of-newsletter-crew">Listen here</a></td>
+                      </tr>
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4">IndieHackers</td>
+                        <td class="whitespace-normal px-6 py-4">Newsletter Crew: A Podcast for Newsletter Creators</td>
+                        <td class="whitespace-normal px-6 py-4">Blog</td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://www.radletters.com/blog/newsletter-crew-a-podcast-for-newsletter-creators">Read here</a></td>
+                      </tr>
+                      <tr class="border-b bg-gray-100 dark:border-neutral-800 no-scrollbar hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4">Community Finder</td>
+                        <td class="whitespace-normal px-6 py-4">How Newsletter Crew acquired IndieMailer in 1 day</td>
+                        <td class="whitespace-normal px-6 py-4">Blog</td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://www.community-finder.co/post/acquiring-a-communitys">Read here</a></td>
+                      </tr>
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-500 hover:text-white">
+                        <td class="whitespace-normal px-6 py-4">Alts</td>
+                        <td class="whitespace-normal px-6 py-4">The World of Newsletter Acquisitions: Interview with Yaro Bagriy</td>
+                        <td class="whitespace-normal px-6 py-4">Blog</td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://alternativeassets.club/an-interview-with-yaro-bigry/">Read here</a></td>
                       </tr>
                     </tbody>
                   </table>
