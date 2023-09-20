@@ -98,6 +98,7 @@ export default function Home() {
             </div>
           </div>
           <br />
+          <br />
           <h2 className="text-xl font-bold text-gray-800 leading-none text-left">
             Featured
           </h2>
