@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className="flex flex-col flex-1 md:justify-center max-w-4xl mx-auto px-4 py-8 md:p-8 w-full">
         <div className="text-center">
-          <h1 className="text-2xl font-bold text-indigo-600 leading-none font-inter space-x-48">
+          <h1 className="text-2xl font-bold text-blue-700 leading-none font-inter space-x-48">
             I create digital products and invest in income producing assets.
           </h1>
           <br />
@@ -49,43 +49,43 @@ export default function Home() {
                       </tr>
                     </thead>
                     <tbody>
-                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://indiestack.co">IndieStack</a></td>
                         <td class="whitespace-normal px-6 py-4">10/21/2019</td>
                         <td class="whitespace-normal px-6 py-4">Private community for digital makers, bootstrappers, and indie founders.</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (5-figure exit)</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-500 hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://newslettercrew.com">Newsletter Crew</a></td>
                         <td class="whitespace-normal px-6 py-4">1/05/2020</td>
                         <td class="whitespace-normal px-6 py-4">Podcast, membership, and blog helping you become a more successful newsletter creator.</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (6-figure exit)</td>
                       </tr>
-                      <tr class="border-b dark:border-neutral-500 hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://referralkit.co">ReferralKit</a></td>
                         <td class="whitespace-normal px-6 py-4">10/01/2020</td>
                         <td class="whitespace-normal px-6 py-4">Newsletter referral SaaS. Put your newsletter growth on autopilot</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (5-figure exit)</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-500 hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://playgroup.community">Playgroup</a></td>
                         <td class="whitespace-normal px-6 py-4">03/25/2021</td>
                         <td class="whitespace-normal px-6 py-4">Powerful platform to start and grow your own online community.  </td>
                         <td class="whitespace-normal px-6 py-4">Shutdown (acquired for a loss)</td>
                       </tr>
-                      <tr class="border-b dark:border-neutral-500 hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://alts.club">Alts Club</a></td>
                         <td class="whitespace-normal px-6 py-4">11/18/2022</td>
                         <td class="whitespace-normal px-6 py-4">Newsletter and community focusing on alternative investments.</td>
                         <td class="whitespace-normal px-6 py-4">Acquired (4-figure exit)</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-500 hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://mrretireearly.com">Mr Retire Early</a></td>
                         <td class="whitespace-normal px-6 py-4">03/26/2023</td>
                         <td class="whitespace-normal px-6 py-4">Newsletter to unlock the essential guide to achieving financial freedom and early retirement.</td>
                         <td class="whitespace-normal px-6 py-4">Active</td>
                       </tr>
-                      <tr class="border-b dark:border-neutral-500 hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://supermatic.io">Supermatic</a></td>
                         <td class="whitespace-normal px-6 py-4">09/03/2023</td>
                         <td class="whitespace-normal px-6 py-4">Cold email outreach automation SaaS</td>
@@ -115,27 +115,27 @@ export default function Home() {
                       </tr>
                     </thead>
                     <tbody>
-                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://podcasts.apple.com/us/podcast/18-yaroslaw-bagriy-interview/id1503184253?i=1000484640098">Ship Building</a></td>
                         <td class="whitespace-normal px-6 py-4"><a href="https://podcasts.apple.com/us/podcast/18-yaroslaw-bagriy-interview/id1503184253?i=1000484640098">Yaroslaw Bagriy Interview</a></td>
                         <td class="whitespace-normal px-6 py-4">Jul 13, 2020</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-500 no-scrollbar hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-500 no-scrollbar hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://www.radletters.com/blog/newsletter-crew-a-podcast-for-newsletter-creators">Radletters</a></td>
                         <td class="whitespace-normal px-6 py-4"><a href="https://www.radletters.com/blog/newsletter-crew-a-podcast-for-newsletter-creators">Newsletter Crew: A Podcast for Newsletter Creators</a></td>
                         <td class="whitespace-normal px-6 py-4">Jul 30, 2020</td>
                       </tr>
-                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://alternativeassets.club/an-interview-with-yaro-bigry/">Alts</a></td>
                         <td class="whitespace-normal px-6 py-4"><a href="https://alternativeassets.club/an-interview-with-yaro-bigry/">The World of Newsletter Acquisitions: Interview with Yaro Bagriy</a></td>
                         <td class="whitespace-normal px-6 py-4">September 4, 2020</td>
                       </tr>
-                      <tr class="border-b bg-gray-100 dark:border-neutral-500 no-scrollbar hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b bg-gray-100 dark:border-neutral-500 no-scrollbar hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://www.youtube.com/watch?v=6OezrHYCK5c">Learnkn</a></td>
                         <td class="whitespace-normal px-6 py-4"><a href="https://www.youtube.com/watch?v=6OezrHYCK5c">Indie Lifestyle, Managing Time, and How to Build Community!</a></td>
                         <td class="whitespace-normal px-6 py-4">Oct 22, 2020</td>
                       </tr>
-                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-indigo-400 hover:text-white">
+                      <tr class="border-b dark:border-neutral-500 no-scrollbar hover:bg-blue-400 hover:text-white">
                         <td class="whitespace-normal px-6 py-4"><a href="https://www.indiehackers.com/podcast/191-yaroslaw-bagriy-of-newsletter-crew">IndieHackers</a></td>
                         <td class="whitespace-normal px-6 py-4"><a href="https://www.indiehackers.com/podcast/191-yaroslaw-bagriy-of-newsletter-crew">Making a Living From the Paid Newsletter Ecosystem</a></td>
                         <td class="whitespace-normal px-6 py-4">February 15, 2021</td>
