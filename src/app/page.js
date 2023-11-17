@@ -92,7 +92,7 @@ export default function Home() {
                         <td class="whitespace-normal px-6 py-4">Active</td>
                       </tr>
                       <tr class="border-b dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
-                        <td class="whitespace-normal px-6 py-4"><a href="https://supermatic.io">Digital Profits</a></td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://digitalprofits.io/">Digital Profits</a></td>
                         <td class="whitespace-normal px-6 py-4">11/13/2023</td>
                         <td class="whitespace-normal px-6 py-4">Expertly analyzed digital businesses for sale in your inbox</td>
                         <td class="whitespace-normal px-6 py-4">Active</td>
