@@ -86,7 +86,7 @@ export default function Home() {
                         <td class="whitespace-normal px-6 py-4">Active</td>
                       </tr>
                       <tr class="border-b dark:border-neutral-500 hover:bg-blue-400 hover:text-white">
-                        <td class="whitespace-normal px-6 py-4"><a href="https://supermatic.io">Supermatic</a></td>
+                        <td class="whitespace-normal px-6 py-4"><a href="https://supamatic.co">Supasend</a></td>
                         <td class="whitespace-normal px-6 py-4">09/03/2023</td>
                         <td class="whitespace-normal px-6 py-4">Cold email outreach automation SaaS</td>
                         <td class="whitespace-normal px-6 py-4">Active</td>
